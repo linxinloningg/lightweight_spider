@@ -54,7 +54,7 @@ class CsdnSpider:
 
   *  爬取csdn文章保存成.md文件
 
-    * [仓库：csdn](https://github.com/linxinloningg/lightweight_spider/tree/main/csdn)
+        * [仓库：csdn](https://github.com/linxinloningg/lightweight_spider/tree/main/csdn)
 
   * 爬取lol官网展示的所有英雄所有皮肤图片
 
