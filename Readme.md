@@ -59,3 +59,11 @@ class Spider:
   * ###### 爬取lol官网展示的所有英雄所有皮肤图片
 
     * [仓库：lol](https://github.com/linxinloningg/lightweight_spider/tree/main/lol)
+    
+  * 模拟的cc工具
+  
+    * [仓库 :cc](https://github.com/linxinloningg/lightweight_spider/tree/main/cc)
+  
+  * csdn浏览量（慎用）
+  
+    * [仓库:cc2csdn](https://github.com/linxinloningg/lightweight_spider/tree/main/cc2csdn)
