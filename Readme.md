@@ -67,3 +67,7 @@ class Spider:
   * csdn浏览量（慎用）
   
     * [仓库:cc2csdn](https://github.com/linxinloningg/lightweight_spider/tree/main/cc2csdn)
+    
+  * 百度图片
+  
+    * [仓库:baidu-pic](https://github.com/linxinloningg/lightweight_spider/tree/main/baidu-pic)
