@@ -70,4 +70,4 @@ class Spider:
     
   * 百度图片
   
-    * [仓库:baidu-pic](https://github.com/linxinloningg/lightweight_spider/tree/main/baidu-pic)
+    * [仓库:baidu-pic](https://github.com/linxinloningg/lightweight_spider/tree/main/baidu_pic)
